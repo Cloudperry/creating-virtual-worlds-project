@@ -1,0 +1,4 @@
+- Match the (level) difficulty to the intended mood or narrative
+- Use environmental storytelling to give hints about or tell what happened in a level; Or use it to set the mood
+- Try to make connections between the gameplay and narrative/mood or use the gameplay to give the player ideas \[add examples and explain\]
+- ...
